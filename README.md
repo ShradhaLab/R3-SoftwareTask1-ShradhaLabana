@@ -11,4 +11,4 @@ The images below show the numbers 00, 49, and 99 respectively as the potentiomet
 ![image](https://user-images.githubusercontent.com/65087658/136667274-c1a24fa0-9a33-4e77-9db4-a1166981be91.png)
 ![image](https://user-images.githubusercontent.com/65087658/136667287-52f56e09-77c4-48c5-8fe2-58291870ad3c.png)
 ![image](https://user-images.githubusercontent.com/65087658/136667301-61043c5b-d3b5-4ea3-8565-c5846e6e15dd.png)
-
+Link to TinkerCad Project: https://www.tinkercad.com/things/eDR8H8ct8r1
